@@ -1,3 +1,0 @@
-IBXEX3 ; ;10/25/02
- S X=DG(DQ),DIC=DIE
- S ^IBA(354.1,"APRIOR",$E(X,1,30),DA)=""
