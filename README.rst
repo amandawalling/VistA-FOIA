@@ -4,7 +4,7 @@
 OSEHRA VistA-FOIA
 =================
 
-This source tree has been superseded the OSEHRA `VistA Source Tree`_
+This source tree has been superseded by the OSEHRA `VistA Source Tree`_
 and the OSEHRA `VistA-M Source Tree`_.  Please see the
 `OSEHRA Repositories Page`_ for more information.
 
